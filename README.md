@@ -1,6 +1,6 @@
 
 <h2 align="center">
-    Hi there, I'm Konstantin 👋
+    Hi, my name is Konstantin 👋
 </h2>
 
 <!--
