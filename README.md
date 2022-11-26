@@ -2,7 +2,7 @@
 
 ### Hi, my name is Konstantin 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=4E5BD4FB&background=FF6F7800&width=435&lines=Software+development;Machine+learning;Data+engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+1P&pause=1000&color=4E5BD4FB&background=FF6F7800&width=435&lines=Software+development;Machine+learning;Data+engineering)](https://git.io/typing-svg)
 <!--
 **selysse/selysse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
