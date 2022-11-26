@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+1P&pause=1000&color=4E5BD4FB&background=FF6F7800&width=435&lines=Software+development;Machine+learning;Data+engineering)](https://git.io/typing-svg)
 
-[<img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=selysse&layout=compact&&theme=dracula&hide=C&&hide_border=true" />](https://www.youtube.com/watch?v=J---aiyznGQ?autoplay=1)
 
 <!--
 **selysse/selysse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
