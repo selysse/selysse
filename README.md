@@ -6,6 +6,8 @@
 <!--
 **selysse/selysse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ [<img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=selysse&layout=compact&&theme=dracula&hide=C&&hide_border=true" />](https://www.youtube.com/watch?v=J---aiyznGQ?autoplay=1)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
